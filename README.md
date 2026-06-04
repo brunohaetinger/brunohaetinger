@@ -5,7 +5,7 @@ I'm **Bruno Haetinger**<br/>
 
 
 👨‍💻 Lead Frontend Software Engineer.<br/>
-🔭 Continuously learning with my pet projects.<br/>
+🔭 Continuously learning<br/>
 🎓 Computer Science<br/>
 🎓 MBA - Strategic Business Management
 
